@@ -51,7 +51,8 @@
 | `images/03-draft.png` | 새 결재 기안 |
 | `images/04-notices.png` | 공지사항 |
 | `images/05-attendance.png` | 근태 관리 |
-| `images/06-equipment.png` | 장비 관리 |
+| `images/06-team-attendance.png` | 전사 근태 |
+| `images/07-directory.png` | 임직원 주소록 |
 
 ### 대시보드
 
@@ -73,9 +74,13 @@
 
 ![근태 관리](images/05-attendance.png)
 
-### 장비 관리
+### 전사 근태
 
-![장비 관리](images/06-equipment.png)
+![전사 근태](images/06-team-attendance.png)
+
+### 임직원 주소록
+
+![임직원 주소록](images/07-directory.png)
 
 ## 구성을 나눈 방식
 

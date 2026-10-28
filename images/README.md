@@ -8,7 +8,8 @@
 | `02-approvals.png` | 전자결재. 처리함과 문서함이 보이게 |
 | `03-draft.png` | 새 결재 기안. 양식 선택과 결재선이 보이게 |
 | `04-notices.png` | 공지사항 목록 |
-| `05-attendance.png` | 근태 관리 |
-| `06-equipment.png` | 장비 관리 목록 또는 상세 |
+| `05-attendance.png` | 근태 관리. 개인 현황 |
+| `06-team-attendance.png` | 전사 근태 |
+| `07-directory.png` | 임직원 주소록 |
 
 이 안내 파일은 사진을 넣은 뒤에도 두어도 됩니다. 본문에는 나오지 않습니다.
