@@ -61,6 +61,10 @@
 | `images/11-weekly-report.png` | 주간업무보고 작성 |
 | `images/12-feedback.png` | 의견·개선 요청 |
 | `images/13-issues.png` | 이슈 |
+| `images/14-equipment.png` | 장비 관리 |
+| `images/15-equipment-item.png` | 장비 상세 |
+| `images/16-ledger.png` | 통합 관리대장 |
+| `images/17-users.png` | 사원 통합 관리 |
 
 ### 대시보드
 
@@ -113,6 +117,22 @@
 ### 이슈
 
 ![이슈](images/13-issues.png)
+
+### 장비 관리
+
+![장비 관리](images/14-equipment.png)
+
+### 장비 상세
+
+![장비 상세](images/15-equipment-item.png)
+
+### 통합 관리대장
+
+![통합 관리대장](images/16-ledger.png)
+
+### 사원 통합 관리
+
+![사원 통합 관리](images/17-users.png)
 
 ## 구성을 나눈 방식
 

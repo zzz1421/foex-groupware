@@ -17,5 +17,9 @@
 | `11-weekly-report.png` | 주간업무보고 작성 |
 | `12-feedback.png` | 의견·개선 요청 |
 | `13-issues.png` | 이슈 목록 |
+| `14-equipment.png` | 장비 관리 목록 |
+| `15-equipment-item.png` | 장비 상세 |
+| `16-ledger.png` | 통합 관리대장 |
+| `17-users.png` | 사원 통합 관리 |
 
 이 안내 파일은 사진을 넣은 뒤에도 두어도 됩니다. 본문에는 나오지 않습니다.
