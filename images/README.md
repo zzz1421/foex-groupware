@@ -11,5 +11,9 @@
 | `05-attendance.png` | 근태 관리. 개인 현황 |
 | `06-team-attendance.png` | 전사 근태 |
 | `07-directory.png` | 임직원 주소록 |
+| `08-projects.png` | 프로젝트 목록 |
+| `09-project.png` | 프로젝트 예산 |
+| `10-weekly.png` | 주간업무보고 목록 |
+| `11-weekly-report.png` | 주간업무보고 작성 |
 
 이 안내 파일은 사진을 넣은 뒤에도 두어도 됩니다. 본문에는 나오지 않습니다.

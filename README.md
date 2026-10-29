@@ -53,6 +53,10 @@
 | `images/05-attendance.png` | 근태 관리 |
 | `images/06-team-attendance.png` | 전사 근태 |
 | `images/07-directory.png` | 임직원 주소록 |
+| `images/08-projects.png` | 프로젝트 목록 |
+| `images/09-project.png` | 프로젝트 예산 |
+| `images/10-weekly.png` | 주간업무보고 목록 |
+| `images/11-weekly-report.png` | 주간업무보고 작성 |
 
 ### 대시보드
 
@@ -81,6 +85,22 @@
 ### 임직원 주소록
 
 ![임직원 주소록](images/07-directory.png)
+
+### 프로젝트
+
+![프로젝트 목록](images/08-projects.png)
+
+### 프로젝트 예산
+
+![프로젝트 예산](images/09-project.png)
+
+### 주간업무보고
+
+![주간업무보고 목록](images/10-weekly.png)
+
+### 주간업무보고 작성
+
+![주간업무보고 작성](images/11-weekly-report.png)
 
 ## 구성을 나눈 방식
 
